@@ -1,0 +1,25 @@
+_repo: The-Lyric--An-Essay_9850
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Drinkwater, John
+    birthdate: 1882
+    deathdate: 1937
+    gutenberg_agent_id: '1820'
+    url: http://www.gutenberg.org/2009/agents/1820
+    wikipedia: http://en.wikipedia.org/wiki/John_Drinkwater
+description: ''
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9850'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lyric poetry'
+- !lcc 'PN'
+- GITenberg
+title: 'The Lyric: An Essay'
+url: http://www.gutenberg.org/ebooks/9850
